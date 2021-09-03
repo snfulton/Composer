@@ -1,0 +1,3 @@
+This application allows users to create musical compositions using a variety of instruments and editing tools.
+
+Authors: Errol Bucy, Leila Peterson, Stephanie Fulton, Tony Zhao

@@ -1,0 +1,69 @@
+
+.drag-select-rectangle {
+    -fx-fill: transparent;
+    -fx-stroke: "#e6d710";
+    -fx-stroke-dash-array: 12 5 12 5;
+    -fx-stroke-dash-offset: 5;
+}
+
+.gesture-rectangle-outline {
+    -fx-stroke: black;
+    -fx-stroke-dash-array: 8 6 8 6;
+    -fx-stroke-dash-offset: 10;
+    -fx-stroke-width: 1.5;
+}
+
+.note-rectangle-outline {
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+.selected-gesture-rectangle-outline {
+    -fx-stroke: red;
+    -fx-stroke-dash-array: 8 6 8 6;
+    -fx-stroke-dash-offset: 10;
+    -fx-stroke-width: 3;
+}
+
+.selected-note-rectangle-outline {
+    -fx-stroke: red;
+    -fx-stroke-width: 3;
+}
+
+
+.inst_piano {
+    -fx-text-fill: #340aa1;
+}
+
+.inst_harpsicord {
+    -fx-text-fill: #1042e6;
+}
+
+.inst_marimba {
+    -fx-text-fill: #33a1fd;
+}
+
+.inst_organ {
+    -fx-text-fill: #038c3c;
+}
+
+.inst_accordian {
+    -fx-text-fill: #4bc704;
+}
+
+.inst_guitar{
+    -fx-text-fill: #fdcd49;
+}
+
+.inst_violin{
+    -fx-text-fill: #f79824;
+}
+
+.inst_frenchhorn{
+    -fx-text-fill: #e84e27;
+}
+
+.redline {
+    -fx-stroke: red;
+    -fx-stroke-width: 2;
+}
